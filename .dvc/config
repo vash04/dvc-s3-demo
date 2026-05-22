@@ -1,4 +1,5 @@
 [core]
     remote = dvcstore
 ['remote "dvcstore"']
-    url = s3://sarveshdvcbucket
+    url = s3://sarvesh-dvc-bucket
+    region = eu-north-1
